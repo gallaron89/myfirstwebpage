@@ -6,7 +6,7 @@
 }
 
 html{
-    background-image: url(../myfirstwebpage/assets/topography.png);
+    background-image: url(/assets/topography.png);
     font-family: consolas, courier;
     
 }
